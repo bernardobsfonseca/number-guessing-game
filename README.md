@@ -1,2 +1,2 @@
 # number-guessing-game
-number guessing game that i made on an bootcamp
+number guessing game that i made on a bootcamp
